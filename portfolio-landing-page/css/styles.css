@@ -1,0 +1,11 @@
+img {
+  position: absolute;
+  clip: rect(0px,400px,400px,0px);
+}
+.love {
+  text-decoration: underline;
+  color: red;
+  font-family: cursive;
+  font-size: 16;
+  font-weight: bold;
+}
