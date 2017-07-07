@@ -1,31 +1,31 @@
-# portfolio-landing-page# 
+portfolio-landing-page
 
-#### _{This will the landing page that people will see when they visit my github page.}, {6/30/17}_
+This will the landing page that people will see when they visit my github page. 6/30/17.
 
-#### By _**{Victor M. Puentes Jr.}**_
+Page created by Victor M. Puentes Jr
 
-## Description
+Description:
 
-_{My landing page will give the reader the opportunity to get to know a little more about me as well as my motivation for coding and projects that I've worked on. }_
+Here I created a portfolio landing page for my github account which will give the reader the opportunity to get to know a little more about me as well as my motivation for coding and projects that I've worked on as per the parameters of my week 1 independent project at Epicodous.
 
-## Setup/Installation Requirements
+Setup/Installation Requirements:
 
-* Open webpages in any web browser.
+No set up or installation required, webpage shoud open in any web browser.
 
-## Known Bugs
+Known Bugs:
 
-_{No know bugs.}_
+No known bugs.
 
-## Support and contact details
+Support and contact details:
 
-_{vmpuentes@gmail.com.}_
+vmpuentes@gmail.com
 
-## Technologies Used
+Technologies Used:
 
-_{software programs used: ATOM text-editor.}_
+ATOM text-editor.
 
-### License
+License:
 
-*{no licenses.}*
+No licenses.
 
-Copyright (c) 2017 **_{Victor M. Puentes}_**
+Copyright (c) 2017 Victor M. Puentes
